@@ -1,0 +1,89 @@
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Wikipedia API Test.exe.config
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Wikipedia API Test.exe
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Wikipedia API Test.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\obj\Debug\Wikipedia API Test.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\obj\Debug\Wikipedia API Test.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\obj\Debug\Wikipedia API Test.csproj.CopyComplete
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\obj\Debug\Wikipedia API Test.exe
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\obj\Debug\Wikipedia API Test.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\bots.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\DefaultPredicates.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\GenderSubstitutions.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\Person2Substitutions.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\PersonSubstitutions.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\Settings.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\Splitters.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\config\Substitutions.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\aiml\ai.aiml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Data.Common.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.IO.Compression.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Net.Http.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\AIMLBot.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Cloud.TextToSpeech.V1.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Protobuf.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Auth.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Core.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Buffers.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Memory.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Cloud.TextToSpeech.V1.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Cloud.TextToSpeech.V1.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Google.Protobuf.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Auth.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Auth.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Core.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Core.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Buffers.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Memory.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ryan\source\repos\Wikipedia API Test\Wikipedia API Test\obj\Debug\Wikipedia API Test.exe.config

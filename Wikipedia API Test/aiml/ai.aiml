@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<!-- Free software &copy; 2001-2003 ALICE A.I. Foundation. -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.01 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Annotated Version updated September 2003 -->
+
+<category>
+	<pattern>*</pattern>
+	<template>1</template>
+</category>
+
+<category>
+	<pattern>WHO IS THE * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHO WAS THE * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHO ARE THE * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHO WERE THE * </pattern>
+	<template><star/></template>
+</category>
+
+
+<category>
+	<pattern>WHAT IS THE * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHAT WAS THE * </pattern>
+	<template><star/></template>
+</category>
+
+
+<category>
+	<pattern>WHERE IS THE * </pattern>
+	<template><star/></template>
+</category>
+
+<category>
+	<pattern>WHO IS * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHO WAS * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHO ARE * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHO WERE * </pattern>
+	<template><star/></template>
+</category>
+
+
+<category>
+	<pattern>WHAT IS * </pattern>
+	<template><star/></template>
+</category>
+<category>
+	<pattern>WHAT WAS * </pattern>
+	<template><star/></template>
+</category>
+
+
+<category>
+	<pattern>WHERE IS * </pattern>
+	<template><star/></template>
+</category>
+</aiml>
